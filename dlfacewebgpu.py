@@ -1,3 +1,11 @@
+"""
+
+Author : Phaneendhra
+Date : 10 June 2021
+
+"""
+
+
 import cv2
 import torch
 from facenet_pytorch import MTCNN
